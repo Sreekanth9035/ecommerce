@@ -1,0 +1,89 @@
+*{
+    margin: 0;
+    padding: 0;
+   
+}
+html{
+    scroll-behavior: smooth;
+}
+body{
+    background: linear-gradient(45deg,#000428 , #004e92);
+}
+div{
+    text-align: center;
+    margin-top: 10px;
+}
+a{
+    text-decoration: none;
+    background: linear-gradient(45deg,#7a33eb, #43f49c);
+    border-radius: 50px;
+    padding: 10px;
+    display: inline-block;
+}
+a:hover{
+    background: linear-gradient(45deg,#eb3349, #f45c43);
+}
+/* Govind Styles */
+.head{
+    text-align: center;
+    color: rgb(0, 132, 255);
+    border:  2px solid green;
+    padding: 1rem;
+    width: 50%;
+    margin: auto;
+    border-radius: 50px 0px 50px 0px;
+    margin-top: 30px;
+    text-shadow:   rgb(255, 255, 255);
+    box-shadow: 0px 0px 20px white;
+}
+/* Welcome Section */
+.wcm{
+    border:2px solid yellow;
+    color: white;
+    width: 50%;
+    margin: auto;
+    border-radius:100%;
+    padding: 20px;
+    /* font-size: 2rem; */
+    margin-top: 30px;
+}
+p{
+    color: white;
+    width: 80%;
+    margin: auto;
+    margin-top: 30px;
+}
+/* Shirt section */
+.section{
+    text-align: center;
+    color: white;
+    border: 2px solid yellow;
+    width: 20%;
+    margin:auto;
+    padding: 5px;
+   margin-top: 50px;
+   border-radius: 50%;
+}
+table{
+    text-align: center;
+    color: white;
+}
+img{
+    width: 70%;
+    border:  5px solid red;
+    border-radius: 50px;
+    margin-top: 30px;
+}
+img:hover{
+    width: 80%;
+}
+
+
+
+
+
+    
+
+
+    
+
